@@ -2,11 +2,11 @@
 :root {
     --background: #1e1e2e; 
     --background-light: #FBEFEA;
-    --button: #78c2ad;
+    --button: #489004;
     --text: #fdebf3;
     --text-light: #1e1e2e; 
-    --text-link: #78c2ad;
-    --underline: #375a7f;
+    --text-link: #489004;
+    --underline: #489004;
     --header: 'Pacifico', cursive;
     --body: 'Josefin Sans', sans-serif; 
 }
@@ -41,12 +41,16 @@ h2 {
     margin-bottom: 0;
 }
 
-p {
+p, li {
     font-family: var(--body);
     font-size: 1.1rem;
     hyphens: auto;
     line-height: 1.5;
     text-indent: 1rem;
+}
+
+li{
+    margin-top : 2rem
 }
 
 small, li {
