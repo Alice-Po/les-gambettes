@@ -16,6 +16,10 @@ html {
     color: var(--text);
 }
 
+main {
+    margin: 15px
+}
+
 body {
     max-width: 540px;
     margin: 0 auto;
