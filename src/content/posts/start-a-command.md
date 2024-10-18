@@ -12,11 +12,11 @@ image:
 J'en parle à un autre membre.
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/commande-process-1.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/commande-process-1.png" alt="Étape 1" />
 </div>
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/commande-process-2.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/commande-process-2.png" alt="Étape 2" />
 </div>
 
 ## 2. Je vérifie les conditions d'achat
@@ -24,7 +24,7 @@ J'en parle à un autre membre.
 Est ce que la commande respect la raison d'être des Gambettes ? Mettez-vous d'accord avec le vendeur en amont
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/commande-process-3.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/commande-process-3.png" alt="Étape 3" />
 </div>
 
 ## 3. Je lance l'invitation
@@ -58,7 +58,7 @@ Dés que je suis sur.e de pouvoir commander la quantité minimum demander par le
 * soit chaque foyer fait un virement sur le compte des Gambettes, puis je demande au trésorier de payer 
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/commande-process-4.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/commande-process-4.png" alt="Étape 4" />
 </div>
 
 ## 5. La livraison

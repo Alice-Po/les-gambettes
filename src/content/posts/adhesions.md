@@ -5,7 +5,7 @@ date: '09-09-2024'
 tag: 'Comment faire'
 image:
     url: '/adhesions.png'
-    alt: 'Post Thumbnail'
+    alt: 'Adhésion'
 ---
 ## Pour adhérer aux Gambettes
 1. Faites vous inviter par un voisin déjà membre (vive le bouche à oreille!)

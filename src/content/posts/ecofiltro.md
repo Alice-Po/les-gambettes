@@ -5,14 +5,14 @@ date: '01-06-2023'
 tag: "Retour d'expérience"
 image:
     url: '/ecofiltro.png'
-    alt: 'Post Thumbnail'
+    alt: 'Écofiltros'
 ---
 
 **“Embarquer du monde sur un achat groupé, petit retour d'expérience suite à la commande d'une vingtaine d'écofiltros.**
 
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/ecofiltro.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/ecofiltro.png" alt="Écofiltros" />
 </div>
 
 Christophe est à l'origine de cette commande. Dans son mail il y avait tout .. ou presque :

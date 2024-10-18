@@ -5,11 +5,11 @@ date: '20-10-2023'
 tag: "Bon Plan"
 image:
     url: '/fromage.png'
-    alt: 'Post Thumbnail'
+    alt: 'Fromage'
 ---
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/fromage.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/fromage.png" alt="Fromage" />
 </div>
 
 L'hiver dernier, j'ai profité de mes vacances pour rapporter une meule de fromage (Beaufort) de Savoie, et plusieurs fromages (Cantal, Salers et Saint Nectaire) d'Auvergne . Le prix pour une meule est bien plus avantageux et cela permet de profiter de bons fromages régionaux AOP (pas bio, mais avec un cahier des charges assez strict) à moindre coût.

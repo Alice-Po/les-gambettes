@@ -5,11 +5,11 @@ date: '14-11-2022'
 tag: "Présentation d'un outil"
 image:
     url: '/coop_circuits_bleu.png'
-    alt: 'Post Thumbnail'
+    alt: 'Coopcircuit'
 ---
 
 <div class="center">
-  <img class="pro-img" width="500px" height="281" src="/coop_circuits_bleu.png" alt="First Image" />
+  <img class="pro-img" width="500px" height="281" src="/coop_circuits_bleu.png" alt="Coopcircuit" />
 </div>
 
 ## Qu’est ce que CoopCircuit ?
