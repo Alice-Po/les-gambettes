@@ -234,6 +234,7 @@ small, li {
 .pro-img {
     border-radius: 16px;
     margin-top: 10px;
+    object-fit: contain;
 }
 
 /* Footer */

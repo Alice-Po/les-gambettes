@@ -15,6 +15,9 @@ const { frontmatter } = Astro.props;
         <li>
             <span class="badge badge--item">Publié le</span>{frontmatter.date}
         </li>
+        <li>
+            <span class="badge badge--item">Catégorie</span>{frontmatter.tag}
+        </li>
     </ul>
     <slot />
 </BaseLayout>
