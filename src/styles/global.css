@@ -115,6 +115,13 @@ small, li {
     padding: 0.3em 0.6em 0.2em;
 }
 
+strong {
+    background-color: yellow;
+    font-size: 1rem;
+    color : black
+}
+
+
 .badge__list {
     text-indent: 1rem;
     list-style: none;
