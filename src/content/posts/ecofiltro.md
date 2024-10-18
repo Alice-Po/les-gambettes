@@ -2,6 +2,7 @@
 title: 'Temoignage d’une commande groupée qui a marché'
 author: Guillaume
 date: '01-06-2023'
+tag: "Retour d'expérience"
 image:
     url: '/ecofiltro.png'
     alt: 'Post Thumbnail'

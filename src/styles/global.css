@@ -106,7 +106,7 @@ small, li {
 
 /* Badge */
 .badge {
-    background-color: #584966;
+    background-color: #489004;
     color: var(--text);
     border-radius: 6px;
     font-family: var(--body);
@@ -141,6 +141,12 @@ small, li {
     text-decoration: underline;
 }
 
+.card__img~.badge{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 /* Cards */
 .card {
     list-style: none;
@@ -155,6 +161,10 @@ small, li {
     line-height: 1.4;
     border-radius: 8px;
     color: var(--text);
+}
+
+.card__link div{
+    position: relative;
 }
 
 .card__img {
