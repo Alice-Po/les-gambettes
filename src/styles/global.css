@@ -169,6 +169,7 @@ small, li {
 
 .card__img {
     border-radius: 16px;
+    object-fit: contain;
 }
 
 .card__title {
