@@ -1,7 +1,7 @@
 /* Global styles */
 :root {
     --background: #1e1e2e; 
-    --background-light: #FBEFEA;
+    --background-light: #F2E5D8;
     --button: #489004;
     --text: #fdebf3;
     --text-light: #1e1e2e; 
@@ -26,7 +26,7 @@ body {
     text-align: justify;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: var(--header);
     font-weight: normal;
 }
@@ -45,7 +45,15 @@ h2 {
     margin-bottom: 0;
 }
 
-p, li {
+h3 {
+    font-size: 1.7rem;
+}
+
+h4 {
+    font-size: 1.3rem;
+}
+
+p, li, blockquote {
     font-family: var(--body);
     font-size: 1.1rem;
     hyphens: auto;
@@ -60,6 +68,25 @@ li{
 small, li {
     font-family: var(--body); 
 }
+
+/* Citations */
+blockquote {
+font-style: italic;
+    color : #8B5935
+  }
+
+  blockquote:before {
+    content: "«";
+    font-size: 20px;
+    color: #8B5935;
+    padding : 10px
+  }
+  blockquote:after {
+    content: "»";
+    font-size: 20px;
+    color: #8B5935;
+    padding : 10px
+  }
 
 /* Navigation Bar */
 .navbar {
